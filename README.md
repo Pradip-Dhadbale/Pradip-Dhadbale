@@ -52,10 +52,8 @@ I am a proactive and results-driven developer skilled in Java, Data Analytics, a
 ---
 
 ### 📊 **GitHub Analytics**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradip-Dhadbale&show_icons=true&theme=dark&hide_border=true" alt="Pradip's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip-Dhadbale&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradip-Dhadbale&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip-Dhadbale&layout=compact&theme=dark&hide_border=true)
 
 ---
 
