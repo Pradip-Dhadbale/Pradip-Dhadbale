@@ -23,7 +23,7 @@ I am a proactive and results-driven developer skilled in Java, Data Analytics, a
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Data Analytics & Tools:**
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
@@ -48,6 +48,11 @@ I am a proactive and results-driven developer skilled in Java, Data Analytics, a
 * 🏆 **Full Stack Web Development** - GeeksforGeeks
 * 🏆 **Introduction to Data Analytics** - Simplilearn
 * 🏆 **Java Programming** - CodSoft
+
+---
+
+### 🧠 **LeetCode Progress**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pradipdhadbale_88?theme=dark&font=Segoe%20UI&ext=heatmap)](https://leetcode.com/u/pradipdhadbale_88/)
 
 ---
 
