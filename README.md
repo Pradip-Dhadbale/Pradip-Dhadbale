@@ -51,12 +51,6 @@ I am a proactive and results-driven developer skilled in Java, Data Analytics, a
 
 ---
 
-### 📊 **GitHub Analytics**
-![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradip-Dhadbale&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip-Dhadbale&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 🧠 **LeetCode Progress**
 [![LeetCode Stats](https://leetcard.jacoblin.cool/pradipdhadbale_88?theme=dark&font=Segoe%20UI&ext=heatmap)](https://leetcode.com/u/pradipdhadbale_88/)
 
